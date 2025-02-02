@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "年崋 • All posts by \"c++\" tag",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2025/02/01/My-new-post/",
+            "url": "http://example.com/2025/02/01/My-new-post/",
+            "title": "我的C++第一课",
+            "date_published": "2025-02-01T12:17:15.000Z",
+            "content_html": "<h1 id=\"关键字\"><a class=\"markdownIt-Anchor\" href=\"#关键字\">#</a> 关键字</h1>\n<figure class=\"highlight cpp\"><figcaption><span>123.cpp</span></figcaption><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br><span class=\"line\">9</span><br><span class=\"line\">10</span><br><span class=\"line\">11</span><br><span class=\"line\">12</span><br><span class=\"line\">13</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"meta\">#<span class=\"keyword\">include</span> <span class=\"string\">&lt;iostream&gt;</span></span></span><br><span class=\"line\"><span class=\"keyword\">using</span> <span class=\"keyword\">namespace</span> std;</span><br><span class=\"line\"><span class=\"meta\">#<span class=\"keyword\">define</span> Day 7</span></span><br><span class=\"line\"><span class=\"function\"><span class=\"type\">int</span> <span class=\"title\">main</span><span class=\"params\">()</span></span></span><br><span class=\"line\"><span class=\"function\"></span>&#123;</span><br><span class=\"line\">\tcout &lt;&lt; <span class=\"string\">&quot;hello world&quot;</span> &lt;&lt; endl;</span><br><span class=\"line\">\t<span class=\"type\">int</span> a = <span class=\"number\">10</span>;</span><br><span class=\"line\">\tcout &lt;&lt; <span class=\"string\">&quot;a=&quot;</span> &lt;&lt; a &lt;&lt; endl;</span><br><span class=\"line\">\tcout &lt;&lt; <span class=\"string\">&quot;一周总共几天&quot;</span> &lt;&lt; Day&lt;&lt; endl;</span><br><span class=\"line\">\t</span><br><span class=\"line\">\t<span class=\"built_in\">system</span>(<span class=\"string\">&quot;pause&quot;</span>);</span><br><span class=\"line\"></span><br><span class=\"line\">&#125;</span><br></pre></td></tr></table></figure>\n",
+            "tags": [
+                "C++"
+            ]
+        }
+    ]
+}
